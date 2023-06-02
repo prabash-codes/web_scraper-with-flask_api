@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "flaskapi_database",
+            "database": "${workspaceFolder:flask project}/database.sqlite3"
+        }
+    ]
+}
