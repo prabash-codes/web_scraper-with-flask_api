@@ -1,4 +1,4 @@
-# Flask API with Web Scraping
+# Web Scraping with Flask API
 
 This project demonstrates a Flask API that retrieves data from an SQLite database and performs web scraping to populate the database. The API provides endpoints to fetch all quotes and retrieve quotes by their ID.
 
